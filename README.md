@@ -1,2 +1,2 @@
-# Python_Top_Atividades
-Repositório com alguns dos exercícios em Python. 
+# Python_Atividades_Basicas
+Repositório com alguns dos Exercícios em Python. 
